@@ -1,1 +1,5 @@
-# qs-code
+# Disciplina Qualidade de Software
+---
+
+
+## Referências
