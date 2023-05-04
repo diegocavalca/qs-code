@@ -1,7 +1,7 @@
 # Atividade
 ---
 
-Faça um fork do repositório [qs-code](), na subpasta `aula_01` e implemente os seguintes exercícios seguindo os ciclos do TDD:
+Faça um fork do repositório [qs-code](https://github.com/diegocavalca/qs-code), na subpasta `aula_01` e implemente os seguintes exercícios seguindo os ciclos do TDD:
 
 1. Implemente o método `double`, que deve elevar ao quadrado qualquer número fornecido pelo usuário. Escreva o arquivo `factorial_test.py` com no mínimo 3 casos de teste.
 
