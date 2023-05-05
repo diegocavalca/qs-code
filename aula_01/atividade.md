@@ -9,5 +9,7 @@ Faça um fork do repositório [qs-code](https://github.com/diegocavalca/qs-code)
 
 3. Implemente o método `factorial`, que deve calcular o fatorial de um número fornecido pelo usuário. Escreva o arquivo `factorial_test.py` com no mínimo 7 casos de teste.
 
-> **IMPORTANTE:** Faça o commit conforme for evoluindo nos ciclos do TDD para cada exercícios.
+> **IMPORTANTE:** 
+> 1. Faça o commit conforme for evoluindo nos ciclos do TDD para cada um dos exercícios.
+> 2. A realização da atividade `vale como Quiz` (versione no Github).
 
